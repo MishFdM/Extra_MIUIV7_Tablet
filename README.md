@@ -1,2 +1,2 @@
-Extra_MIUIV6_Tablet
+Extra_MIUIV7_Tablet
 ===================
